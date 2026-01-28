@@ -1,0 +1,8 @@
+Hello,
+
+We need 1 truck from Pune to Bangalore tomorrow.
+Also need 2 trucks from Mumbai to Chennai day after tomorrow.
+Vehicle: 32 ft container.
+
+Regards
+XYZ Corp
